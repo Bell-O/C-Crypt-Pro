@@ -218,7 +218,7 @@ python c-crypt-pro.py --delete-key mykey --type both
 
 ## 📜 **License**
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is licensed under the Bell Software License (BSL). See the LICENSE file for details.
 
 ---
 
